@@ -7,7 +7,7 @@ const { Panel } = Collapse;
 function AppFaq() {
     return (
 
-        <h1>f</h1>
+        <h1>.</h1>
 
 
 
