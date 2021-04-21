@@ -1,0 +1,73 @@
+.MainArea{
+    display: flex;
+    height: auto; 
+    padding-bottom: 1100px;
+    background-color: rgb(240, 236, 236);
+    }
+
+.Sidebar{
+    display: grid;
+    width: 17%;
+    height: 1rem;
+    background-color: tomato;
+    
+}
+
+.Sidebar>div{
+    height: auto;
+    background-image: url('https://cdn.pixabay.com/photo/2020/08/31/18/14/abstract-5533222_1280.jpg');
+    color: cornsilk;
+}
+
+.Sidebar2{
+    display: flex;
+    width: 40%;
+    height: 1rem;
+    background-color: rgb(255, 238, 7);
+}
+
+.Sidebar2>div{
+    height: auto;
+}
+
+
+
+.Quick_Icon{
+    display: flex;
+    align-items: center;
+    font-size: 1.7rem;
+    padding: 10px;
+
+}
+
+.Quick_Icon>div{
+    padding: 0 12px;
+}
+
+
+.Main{
+    height: 60%;
+    width: 83%;
+    align-items: center;
+    
+}
+
+
+
+
+
+
+
+
+
+.container-fluid
+{
+    height: 100px;
+    padding-left: 100px;
+    padding-top: 0px;
+    width: 1150px;
+    margin: 8px;
+    
+       
+    
+}
